@@ -26,6 +26,6 @@
   </style>
   </head>
   <body>
-    <div class="div"></div>
+    <div class="div">0</div>
   </body>
 </html>
