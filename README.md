@@ -1,6 +1,6 @@
 <html>
-  <style>
-    div{
+  <style type="css/text">
+    .div{
       background-color: red;
       width: 200px;
       height: 200px;
@@ -24,6 +24,6 @@
       }
   </style>
   <body>
-    <div></div>
+    <div class="div"></div>
   </body>
 </html>
