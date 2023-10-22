@@ -8,18 +8,21 @@
       position: absolute;
       animation-name: boom;
       animation-timing-function: linear;
-      animation-duration: infinity;
+      animation-duration: 10s;
       animation-direction: alternate;
       }
       @keyframes boom{
       0%{
-      transform: translate(0,0)
+         background-color: red;
+      transform: translateX(0)
       }
       50%{
-      transform: translate(40%, 40%)
+         background-color: blue;
+      transform: translateX(40%)
       }
       100%{
-      transform: translate(0,0)
+         background-color: yellow;
+      transform: translateX(50%)
       }
       }
       }
