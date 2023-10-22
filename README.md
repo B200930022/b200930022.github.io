@@ -1,6 +1,6 @@
 <html>
   <head>
-  <style type="css/text">
+  <style>
     .div{
       background-color: red;
       width: 200px;
