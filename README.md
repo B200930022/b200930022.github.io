@@ -1,4 +1,5 @@
 <html>
+  <head>
   <style type="css/text">
     .div{
       background-color: red;
@@ -23,6 +24,7 @@
       }
       }
   </style>
+  </head>
   <body>
     <div class="div"></div>
   </body>
